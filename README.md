@@ -50,6 +50,9 @@ What I would have done with more time:
 -	Make the ML insight more useful, potentially time based or location based rather than rarity and work towards a prediction factor
 -	Clean the presentation of the API
 
+Youtube Video Link - https://youtu.be/q5rONN_qc3g
+
+
 Batur Gunen
 
 Elanco Technical Task - Backend
